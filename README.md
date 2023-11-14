@@ -3,10 +3,15 @@
 Haven1 is an EVM-compatible Layer 1 blockchain seamlessly incorporating key
 principles of traditional finance into the Web3 ecosystem.
 
-The Proof of Identity framework enhances security and unlocks previously
-unattainable decentralized finance use cases, marking a significant advancement
-in the convergence of traditional financial principles and decentralized technologies.
+Among the features introduced by Haven1 is the Provable Identity Framework. This
+framework enhances security and unlocks previously unattainable decentralized
+finance use cases, marking a significant advancement in the convergence of
+traditional financial principles and decentralized technologies.
 
+The Provable Identity Framework is discussed in more detail
+[below](#provable-identity-framework).
+For more information on Haven1 and the Provable Identity Framework, visit the
+[documentation](https://docs.haven1.org) and view the [litepaper](https://docsend.com/view/8hnh4kah6updyzf4).
 
 ## Table of Contents
 1. [Provable Identity Framework](#provable-identity-framework)
@@ -24,6 +29,22 @@ illicit  activity and enable recourse mechanisms on transactions. Once completed
 users will receive a non-transferrable NFT containing anonymized information
 that developers on Haven1 can utilize to permission their apps and craft novel
 blockchain use cases.
+
+For example, Haven1's compliance with regulatory standards in combination with
+the Provable Identity Framework allows for the development of lending markets that
+are underpinned by real-world credit scores as reputation backing - similar to traditional loan risk management.
+
+Haven1 enables integration with real-world assets where proof of identity is
+required. It can, for instance, facilitate the introduction of investment
+vehicles backed by real estate assets, leveraging non-fungible tokens (NFTs)
+on-chain to represent ownership of specific properties.
+
+Tokenized digital representations of assets, such as securities and bonds,
+become possible in this environment, enabling exchange and settlement with
+greater efficiency at a global level.
+
+For more information on Haven1 and the Provable Identity Framework, visit the
+[documentation](https://docs.haven1.org) and view the [litepaper](https://docsend.com/view/8hnh4kah6updyzf4).
 
 
 <a id="hackathon-information"></a>
