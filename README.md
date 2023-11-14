@@ -15,9 +15,8 @@ For more information on Haven1 and the Provable Identity Framework, visit the
 
 ## Table of Contents
 1. [Provable Identity Framework](#provable-identity-framework)
-2. [Hackathon Information](#hackathon-information)
-3. [Repository Information](#repository-information)
-4. [Preparation](#preparations)
+2. [Repository Information](#repository-information)
+3. [Preparation](#preparations)
     -    [Prerequisites](#prerequisites)
     -    [Installing](#installing)
 
@@ -45,10 +44,6 @@ greater efficiency at a global level.
 
 For more information on Haven1 and the Provable Identity Framework, visit the
 [documentation](https://docs.haven1.org) and view the [litepaper](https://docsend.com/view/8hnh4kah6updyzf4).
-
-
-<a id="hackathon-information"></a>
-## Hackathon Information
 
 <a id="repository-information"></a>
 ## Repository Information
