@@ -20,7 +20,7 @@ in the convergence of traditional financial principles and decentralized technol
 ## Provable Identity Framework
 
 All Haven1 users will be required to complete identity verification to deter
-illict activity and enable recourse mechanisms on transactions. Once completed,
+illicit  activity and enable recourse mechanisms on transactions. Once completed,
 users will receive a non-transferrable NFT containing anonymized information
 that developers on Haven1 can utilize to permission their apps and craft novel
 blockchain use cases.
@@ -43,6 +43,8 @@ paths and a link.
 | Documentation              | `docs`                                            | [link](https://github.com/haven1network/proof-of-identity-hackathon/tree/main/docs/proof-of-identity)                          |
 | Utils                      | `utils`                                           | [link](https://github.com/haven1network/proof-of-identity-hackathon/tree/main/utils)                                           |
 | Templates                  | `templates`                                       | [link](https://github.com/haven1network/proof-of-identity-hackathon/tree/main/templates)                                       |
+
+All contracts have been extensively commented to aid in understanding the Provable Identity Framework.
 
 <a id="preparations"></a>
 ## Preparations

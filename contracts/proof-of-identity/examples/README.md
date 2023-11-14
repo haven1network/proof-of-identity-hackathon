@@ -5,7 +5,7 @@ This directory contains two example contracts that interact with the `ProofOfIde
 -   `SimpleStoragePOI.sol`: an implementation of `SimpleStorage` that permissions accounts based on their `competencyRating`.
 
 Note that while both contracts utilise many Solidity best practices, they are purely for demonstrations purposes only. For example, in production the:
--   the `bid` function in `AuctionPOI.sol:280` should include a reentrancy guard; and
+-   `bid` function in `AuctionPOI.sol:280` should include a reentrancy guard; and
 -   transfer of H1 at `AuctionPOI.sol:454` and `AuctionPOI.sol:468` should not occur optimistically in most circumstances.
 
 Both contracts explicitly check for the presence of an account's `ID NFT`, as well as their suspended status.
