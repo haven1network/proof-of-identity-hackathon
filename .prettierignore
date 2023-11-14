@@ -1,0 +1,11 @@
+node_modules
+.git
+artifacts
+cache
+typechain-types
+coverage
+coverage.json
+docs
+.github
+README.md
+renovate.json
