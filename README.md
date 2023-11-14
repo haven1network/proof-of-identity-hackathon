@@ -35,14 +35,14 @@ This repository contains everything you need to participate in the hackathon -
 please feel free to explore it. Below are a list of important features, their
 paths and a link.
 
-| Feature                    | Path                                              | Link                                                                                             |
-|----------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| `ProofOfIdentity` contract | `contracts/proof-of-identity/ProofOfIdentity.sol` | [link](https://github.com/haven1network/proof-of-identity-hackathon/contracts/proof-of-identity) |
-| Examples                   | `contracts/proof-of-identity/examples/*`          | [link](https://github.com/haven1network/proof-of-identity-hackathon/contracts/examples)          |
-| Tests                      | `test/proof-of-identity/*`                        | [link](https://github.com/haven1network/proof-of-identity-hackathon/test)                        |
-| Documentation              | `docs`                                            | [link](https://github.com/haven1network/proof-of-identity-hackathon/docs)                        |
-| Utils                      | `utils`                                           | [link](https://github.com/haven1network/proof-of-identity-hackathon/utils)                       |
-| Templates                  | `templates`                                       | [link](https://github.com/haven1network/proof-of-identity-hackathon/templates)                   |
+| Feature                    | Path                                              | Link                                                                                                                           |
+|----------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| `ProofOfIdentity` contract | `contracts/proof-of-identity/ProofOfIdentity.sol` | [link](https://github.com/haven1network/proof-of-identity-hackathon/blob/main/contracts/proof-of-identity/ProofOfIdentity.sol) |
+| Examples                   | `contracts/proof-of-identity/examples/*`          | [link](https://github.com/haven1network/proof-of-identity-hackathon/tree/main/contracts/proof-of-identity/examples)            |
+| Tests                      | `test/proof-of-identity/*`                        | [link](https://github.com/haven1network/proof-of-identity-hackathon/tree/main/test/proof-of-identity)                          |
+| Documentation              | `docs`                                            | [link](https://github.com/haven1network/proof-of-identity-hackathon/tree/main/docs/proof-of-identity)                          |
+| Utils                      | `utils`                                           | [link](https://github.com/haven1network/proof-of-identity-hackathon/tree/main/utils)                                           |
+| Templates                  | `templates`                                       | [link](https://github.com/haven1network/proof-of-identity-hackathon/tree/main/templates)                                       |
 
 <a id="preparations"></a>
 ## Preparations
