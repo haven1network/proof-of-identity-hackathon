@@ -23,7 +23,7 @@ const SIMPLE_STORAGE_POI_ERRORS = {
     SUSPENDED: "SimpleStoragePOI__Suspended",
     COMPETENCY_RATING: "SimpleStoragePOI__CompetencyRating",
     ATTRIBUTE_EXPIRED: "SimpleStoragePOI__AttributeExpired",
-    ZERO_ADDRESS: "SimpleStoragePOI__ZeroAddress"
+    ZERO_ADDRESS: "SimpleStoragePOI__ZeroAddress",
 } as const satisfies Record<string, string>;
 
 /**

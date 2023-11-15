@@ -39,7 +39,6 @@ const AUCTION_POI_ERRORS = {
     USER_TYPE: "AuctionPOI__UserType",
     BID_TOO_LOW: "AuctionPOI__BidTooLow",
     ALREADY_HIGHEST: "AuctionPOI__AlreadyHighestBidder",
-
 } as const satisfies Record<string, string>;
 
 /**

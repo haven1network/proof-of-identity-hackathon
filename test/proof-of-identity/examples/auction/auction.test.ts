@@ -19,9 +19,7 @@ import { AuctionPOITest, auctionPOIErr, getAuctionType } from "./setup";
 import { ZERO_ADDRESS } from "../../../constants";
 import { addTime } from "@utils/time";
 import { getH1Balance, parseH1 } from "@utils/token";
-import {
-    PROOF_OF_ID_ATTRIBUTES,
-} from "@utils/deploy/proof-of-identity";
+import { PROOF_OF_ID_ATTRIBUTES } from "@utils/deploy/proof-of-identity";
 import { tsFromTxRec } from "@utils/transaction";
 
 /* TESTS
