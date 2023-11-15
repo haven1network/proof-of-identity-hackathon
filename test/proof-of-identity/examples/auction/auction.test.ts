@@ -27,7 +27,7 @@ import { tsFromTxRec } from "@utils/transaction";
 describe("Auction - POI", function () {
     /* Setup
     ======================================== */
-    const exp = addTime(Date.now(), 2, "years");
+    const exp = addTime(Date.now(), 2, "years", "sec");
 
     function newArgs(addr: string, userTypeKey: UserTypeKey): IssueIdArgs {
         return {
